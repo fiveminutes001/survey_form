@@ -1,0 +1,28 @@
+
+See below list of functionality that would be required (outside of the mechanics of producing the right results) of the Brain Health Survey, in order for us to utilize this as a marketing tool:
+
+1. Automated generation of custom PDF report
+
+2. User MUST input their First Name, Last Name and Email address in order to obtain the PDF report
+
+3. Report should be obtained by either direct download, email request or both.
+
+4. PDF Report should be Labelled and Branded accordingly
+
+5. Survey platform must be able to accept tracking code for HubSpot, Google Analytics and Facebook Pixel in the Header Code
+
+6. Survey must be available via direct access from custom URL
+
+7. Reporting on user activity should be available that will provide us stats on things like:
+
+  - User completion ratio
+
+  - Question y Question completion - meaning for those users who do not complete, where are they getting to before closing their browser window
+
+  - Responses Report - What are the responses we are getting from each user. I.e. 76% of users have 'Sub-Optimal Diet' outcome from nutrition question. This helps us to tailor our ongoing marketing content based on what percentage of users are mostly interested in what subjects.
+
+8. User interface of the survey should be branded with our logo, fonts and colors.
+
+9. Survey should be able to be "cloned and tagged". Meaning, we can have clones of the same survey, each tagged differently back-end, so that we can track which traffic source we used for each survey, and ascertain which is performing better than others.
+
+10. Survey should NOT be delivered by iFrame, and can work across multiple browsers for both Desktop and Mobile.
