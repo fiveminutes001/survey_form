@@ -18,7 +18,7 @@
 <body>
 
 <header class="w3-container w3-teal w3-center">
-  <h1>Survey Intro 01</h1>
+  <h1>Survey Intro</h1>
 </header>
 
 <div class="w3-container w3-col l2 m1 s0">&nbsp;</div>
